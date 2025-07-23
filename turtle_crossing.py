@@ -32,6 +32,7 @@ class Player(turtle.Turtle):
     def reset_position(self):
         self.goto(0, -280)
 
+
 class CarManager:
     def __init__(self):
         self.cars = []
