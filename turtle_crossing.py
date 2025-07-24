@@ -108,3 +108,4 @@ while game_on:
         scoreboard.next_level()
 
 screen.exitonclick()
+
